@@ -61,7 +61,7 @@ STEERING_RIGHT_PWM = 260        #pwm value for full right steering
 # 
 # #THROTTLE
 # THROTTLE_CHANNEL = 0            #channel on the 9685 pwm board 0-15
-THROTTLE_FORWARD_PWM = 460      #pwm value for max forward throttle
+THROTTLE_FORWARD_PWM = 440      #pwm value for max forward throttle
 THROTTLE_STOPPED_PWM = 390      #pwm value for no movement
 THROTTLE_REVERSE_PWM = 305
       #pwm value for max reverse throttle
